@@ -10,6 +10,7 @@ namespace BrightLoans
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
